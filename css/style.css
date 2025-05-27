@@ -184,7 +184,7 @@ a:hover {
         rgba(0, 0, 0, 0.9),
         rgba(0, 0, 0, 0.9)
     ),
-    url('/img/hero-bg.jpg') no-repeat center center / cover;
+    url('https://pridecore.github.io/RG-Mechanics-Repacks/img/hero-bg.jpg') no-repeat center center / cover;
 
     background-attachment: fixed;
     color: #fff;
@@ -273,7 +273,7 @@ a:hover {
 .about {
     padding: 4rem 0;
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.99), rgba(10, 24, 1, 0.95)),
-                url('/img/bg_about.jpg') no-repeat center center / cover;
+                url('https://pridecore.github.io/RG-Mechanics-Repacks/img/bg_about.jpg') no-repeat center center / cover;
     color: #fff;
     background-attachment: fixed;
     text-align: left;
@@ -719,7 +719,7 @@ a:hover {
 .bonus {
     padding: 4rem 0;
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(2, 11, 1, 0.8)),
-                url('/img/bg_site.png') no-repeat center center / cover;
+                url('https://pridecore.github.io/RG-Mechanics-Repacks/img/bg_site.png') no-repeat center center / cover;
     color: #fff;
     background-attachment: fixed;
     text-align: left;
